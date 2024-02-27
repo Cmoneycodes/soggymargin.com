@@ -1,9 +1,9 @@
 ---
 subtitle:
-topic: Computers
+topic: tools for the digital age 
 date: 2022-11-25
-tags: links
-published: false
+tags: links, government, finance, defense, news, trading, money, safety, knowledge, 
+published: true
 ---
 
 ### links
@@ -22,7 +22,7 @@ published: false
 # finance 
 |name|link|
 |---|---|
-|   |   |
+|token track (unlocks |https://tokentrack.co|
 |   |   |
 |   |   |
 |   |   |
@@ -35,7 +35,7 @@ published: false
 |United States Agency for International Development|usaid.gov|
 |Foia agency search|https://www.foia.gov/#agency-search|
 |GAO|GAO.gov|
-|   |   |
+|SEC||(https://www.sec.gov/spotlight/cybersecurity-enforcement-actions)|
 |   |   |
 |   |   |
 |   |   |
@@ -56,8 +56,8 @@ published: false
 |interpool|http://www.interpol.int/|
 |Yard police|http://content.met.police.uk/Home|
 |FATF|http://www.fatf-gafi.org/pages/0%2C2987%2Cen_32250379_32235720_1_1_1_1_1%2C00.html|
-|   |   |
-|   |   |
+|All Domain Anomaly OFFice|https://www.aaro.mil|
+|USA Asset Forfeiture|https://www.usmarshals.gov/what-we-do/asset-forfeiture|
 |   |   |
 |   |   |
 |   |   |
@@ -69,8 +69,8 @@ published: false
 |name|link|
 |---|---|
 |Center for strategic and international Security| CSIS.org |
-|   |   |
-|   |   |
+|islamic emirate of Afghanistan |https://www.alemarahenglish.af|
+|radio free europe|https://www.rferl.org)|
 |   |   |
 |   |   |
 |   |   |
