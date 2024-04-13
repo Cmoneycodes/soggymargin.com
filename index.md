@@ -42,12 +42,12 @@ Amen
 
 
 
-![FBI](B9D0C3F1-670B-45A0-BFA9-9B4277D662AE.jpeg)
+![FBI](images/fbimuhlady.jpeg)
 
 
 ## TBD 
 
-![FUMO](D7F7461B-BED6-4F48-A57B-274B8F2B8DA2_1_105_c.jpeg)
+![FUMO](images/D7F7461B-BED6-4F48-A57B-274B8F2B8DA2_1_105_c.jpeg)
 
 ## Information Pipeline
 
