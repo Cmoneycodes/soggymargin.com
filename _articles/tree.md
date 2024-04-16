@@ -9,8 +9,6 @@ tags:  deep blue ocean  ,
 ## The flow
 **********
 | Agency | Description | Link |
-|---|---|---|
-| Agency | Description | Link |
 |--------|-------------|------|
 | OPEC+ | Organization of the Petroleum Exporting Countries and allies | [OPEC+](https://www.opec.org/opec_web/en/) |
 | IEA | International Energy Agency | [IEA](https://www.iea.org/) |
@@ -31,7 +29,7 @@ tags:  deep blue ocean  ,
 | Berkshire Hathaway | Berkshire Hathaway Inc.  | [Berkshire Hathaway](https://www.berkshirehathaway.com/) |
 | SEC News | US Securities and Exchange Commission (SEC) News | [SEC News](https://www.sec.gov/news/pressreleases) |
 | Arkham Blog | Possibly a financial blog (more information needed to confirm) | *Enter "Arkham Blog" search query into your web browser* |
-| World Fed News Aggregator | No specific source identified. Consider searching for "World Fed News Aggregator" | [World Fed News Aggregator](https://www.worldbank.org/en/home) or [IMF](https://www.imf.org/en/Home) |
+| World Fed News Aggregator | No specific source identified. Consider searching for "World Fed News Aggregator" | [IMF](https://www.imf.org/en/Home) |
 
 
 **********  
