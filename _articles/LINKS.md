@@ -10,7 +10,7 @@ published: true
 
 | Name            | Link                                                    |
 |-----------------|---------------------------------------------------------|
-| Legiscan        |                                                         |
+| Legiscan        | [Legiscan](https://legiscan.com/)                       |
 | Bridge Aggregator (Bungee) | [Bungee Exchange](https://www.bungee.exchange/refuel) |
 | FINRA           | [FINRA Morningstar](https://finra-markets.morningstar.com/MarketData/Default.jsp?sdkVersion=2.62.7) |
 
@@ -34,15 +34,15 @@ published: true
 | Name            | Link                                                    |
 |-----------------|---------------------------------------------------------|
 | Islamic State   | [Fahras](https://fahras.co.za/)                         |
-| Pakistan State  | [ISPR](https://Ispr.gov.pk)                             |
-| CIA             | [CIA Tech](https://CIA.com/tech)                        |
+| Pakistan State  | [ISPR](https://ispr.gov.pk)                             |
+| CIA             | [CIA Tech](https://cia.gov/tech)                        |
 | UK Intel        | [UK SIS](https://www.sis.gov.uk)                        |
-| Interpol        | [Interpol](http://www.interpol.int/)                    |
-| Yard Police     | [Met Police](http://content.met.police.uk/Home)         |
-| FATF            | [FATF](http://www.fatf-gafi.org/pages/0%2C2987%2Cen_32250379_32235720_1_1_1_1_1%2C00.html) |
-| AARO            | [All Domain Anomaly Office](https://www.aaro.mil)        |
+| Interpol        | [Interpol](https://www.interpol.int/)                   |
+| Yard Police     | [Met Police](https://www.met.police.uk/)                |
+| FATF            | [FATF](https://www.fatf-gafi.org/)                      |
+| AARO            | [All Domain Anomaly Office](https://www.aaro.mil)       |
 | USA Asset Forfeiture | [US Marshals](https://www.usmarshals.gov/what-we-do/asset-forfeiture) |
-| investor dot gov | [investor.gov](investor.gov) |
+| investor.gov    | [investor.gov](https://www.investor.gov)                |
 
 ### Non-Government Intelligence Agencies
 
@@ -52,25 +52,19 @@ published: true
 | Islamic Emirate of Afghanistan | [Alemarah English](https://www.alemarahenglish.af)   |
 | Radio Free Europe | [RFE/RL](https://www.rferl.org)                         |
 
-### Non-Government Organizations
-
-| Name            | Link                                                    |
-|-----------------|---------------------------------------------------------|
-|                 |                                                         |
-
 ### Trading
 
 | Name            | Link                                                    |
 |-----------------|---------------------------------------------------------|
-| Free 1s Charts  | [Aggr Trade](aggr.trade)                               |
+| Free 1s Charts  | [Aggr Trade](https://aggr.trade)                        |
 | CME Block Trades | [CME Block Trades](https://www.cmegroup.com/clearing/operations-and-deliveries/accepted-trade-types/block-data.html#tradeDate=2023-11-24&groups=16&subGroups=54,55) |
-| CME Commitment of Traders | [CME Commitment of Traders](https://www.cmegroup.com/clearing/operations-and-deliveries/accepted-trade-types/block-data.html#tradeDate=2023-11-24&groups=16&subGroups=54,55) |
+| CME Commitment of Traders | [CME Commitment of Traders](https://www.cmegroup.com/market-data/commitment-of-traders.html) |
 | Binance Lev Tokens | [Binance Leveraged Tokens](https://www.binance.com/en/leveraged-tokens/tokens/allTokens/1INCHUP) |
-| Coinglass       | [Coinglass](www.coinglass.com)                          |
-| Coinalyze       | [Coinalyze](https://coinalyze.net)                       |
+| Coinglass       | [Coinglass](https://www.coinglass.com)                  |
+| Coinalyze       | [Coinalyze](https://coinalyze.net)                      |
 | Token Unlocks   | [TokenTrack](https://tokentrack.co)                     |
 | EIA Petroleum & Other Liquids | [EIA](https://www.eia.gov/petroleum/weekly/index.php) |
-| Bureau of Economic Analysis |                                                         |
+| Bureau of Economic Analysis | [BEA](https://www.bea.gov/)                 |
 
 ### News
 
