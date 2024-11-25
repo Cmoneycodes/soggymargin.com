@@ -46,8 +46,13 @@ Amen
 
 
 ## $fumo404 !!!! 
-<strong> [tg](https://t.me/+rb3c1-7R-xg0OTRh) <strong> 
-<strong> [X](https://x.com/fumo404) <strong> 
+
+
+<h4>links</h4>
+<ul>
+<li><strong> [tg](https://t.me/+rb3c1-7R-xg0OTRh) <strong> 
+<li><strong> [X](https://x.com/fumo404) <strong>
+</ul> 
 
 ![FUMO](images/D7F7461B-BED6-4F48-A57B-274B8F2B8DA2_1_105_c.jpeg)
  
