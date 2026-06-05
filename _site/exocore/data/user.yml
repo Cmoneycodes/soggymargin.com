@@ -10,16 +10,16 @@ user_name: Soggy Margin
 profile_link: /
 
 
-# The user image displayed on your profile card. You can edit this by dropping an image with the name 'pfp.png' into 'assets/imgs', or editing the path below:
-profile_pic: assets/imgs/OECM.png
+# The user image displayed on your profile card. You can edit this by dropping an image with the name 'x' into 'assets/imgs', or editing the path below:
+profile_pic: assets/imgs/PFP.png
 
 
 # The header that will be displayed on your homepage:
-welcome_header: Welcome ! ! !
+welcome_header: SOGGY
 
 
 # The subtitle to the above header on your homepage:
-welcome_subtitle: A navigable, organised hypertext personal knowledge base
+welcome_subtitle: A navigable, organised hypertext personal knowledge base used to share anything i am working on with the general public.
 
 
 # Include the Viral Public License at the bottom of your posts (Accepts true/false). Read more about the VPL at https://viralpubliclicense.org.

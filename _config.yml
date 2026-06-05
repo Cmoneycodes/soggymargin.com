@@ -170,12 +170,8 @@ plugins:
 - jekyll-relative-links
 # - jekyll-github-metadata
 - jekyll-seo-tag
-- html-proofer
-- rubocop
-- w3c_validators
 - jekyll-last-modified-at
 - jekyll-redirect-from
 - jekyll-feed
 - jekyll-wikilinks
-- jekyll-last-modified-at
 - jekyll-graph
