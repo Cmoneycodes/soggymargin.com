@@ -1,0 +1,14 @@
+{
+  "name": "cmoney-blog",
+  "version": "1.0.0",
+  "description": "Jekyll + Exocore site for soggymargin.com",
+  "engines": {
+    "node": ">=22.0.0"
+  },
+  "devDependencies": {
+    "@netlify/plugin-ruby": "^1.3.0"
+  },
+  "scripts": {
+    "build": "bundle exec jekyll build"
+  }
+}
