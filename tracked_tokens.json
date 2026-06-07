@@ -1,17 +1,6 @@
 {
-  "2b1kV6DkPAnxd5ixfnxCpjxmKwqjjaYmCZfHsFu24GXo": {
-    "name": "PayPal USD",
-    "symbol": "PYUSD",
-    "first_seen": 1732586194.5758686
-  },
-  "2FPyTwcZLUg1MDrwsyoP4D6s1tM7hAkHYRjkNb5w6Pxk": {
-    "name": "Wrapped Ethereum (Sollet)",
-    "symbol": "ETH",
-    "first_seen": 1732586194.5758686
-  },
-  "2VhjJ9WxaGC3EZFwJG9BDUs9KxKCAjQY4vgd1qxgYWVg": {
-    "name": "EUROe Stablecoin",
-    "symbol": "EUROe",
-    "first_seen": 1732586194.5758686
-  }
+  "last_updated": "2026-06-06",
+  "description": "Tracked tokens, airdrops, or on-chain items for cmoney-blog research",
+  "entries": [],
+  "note": "Created during cleanup sweep as referenced in project note. Ready for automation."
 }

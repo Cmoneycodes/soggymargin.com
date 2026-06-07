@@ -1,6 +1,6 @@
 {
-  "https://gov.ethenafoundation.com/latest": [
-    "https://gov.ethenafoundation.com/t/proposal-onboard-sol-as-a-usde-backing-asset/232",
-    "https://gov.ethenafoundation.com/t/wintermute-governance-proposal-for-ena-fee-switch/306"
-  ]
+  "last_updated": "2026-06-06",
+  "description": "Tracking for sent/published articles in cmoney-blog / soggymargin.com",
+  "entries": [],
+  "note": "Populated by automation or manual updates. Cleaned during per-article agent sweep."
 }

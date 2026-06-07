@@ -1,0 +1,21 @@
+[build]
+  command = "bundle install && bundle exec jekyll build"
+  publish = "_site"
+
+[build.environment]
+  NODE_VERSION = "22"
+  RUBY_VERSION = "3.1.4"
+
+# Optional security headers
+[[headers]]
+  for = "/*"
+    [headers.values]
+      X-Frame-Options = "DENY"
+      X-XSS-Protection = "1; mode=block"
+      Referrer-Policy = "strict-origin-when-cross-origin"
+      Permissions-Policy = "camera=(), microphone=(), geolocation=()"
+
+# If you enable any Netlify Edge Functions or advanced runners later, this ensures modern Node
+[context.production.environment]
+  NODE_VERSION = "22"
+  RUBY_VERSION = "3.1.4"
