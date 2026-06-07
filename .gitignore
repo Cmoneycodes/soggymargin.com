@@ -12,3 +12,5 @@ docs/.jekyll-metadata
 .test-workspace
 .jekyll-cache
 pumpfunbot.py
+
+.bundle/
