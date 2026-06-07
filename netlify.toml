@@ -1,0 +1,10 @@
+[build]
+  command = "bundle exec jekyll build --trace"
+  publish = "_site"
+  environment = { NODE_VERSION = "22" }
+
+[context.production.environment]
+  NODE_VERSION = "22"
+
+[[plugins]]
+  package = "@netlify/plugin-ruby"
